@@ -1,1 +1,14 @@
-git init, git status, git add, git commit, git log
+This is a file for all git commands in it.
+
+git init
+git add 
+git branch
+git commit -m 
+git restore 
+git log
+git diff
+git clone
+git remote -v 
+git remote add origin (git url)
+git remote origin master/main
+
