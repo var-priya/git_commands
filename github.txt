@@ -10,3 +10,10 @@ git diff
 git remote -v 
 git remote add origin 
 git push/pull origin master/main
+git rm --cached
+git restore
+git log --oneline
+git log --oneline --pretty
+git config --global user.name ""
+git config --global user.email ""
+git checkout -b
